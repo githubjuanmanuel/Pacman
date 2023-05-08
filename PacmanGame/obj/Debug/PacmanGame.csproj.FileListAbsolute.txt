@@ -1,0 +1,35 @@
+C:\Users\Usuario\source\repos\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\PacmanGame\PacmanGame\obj\Debug\PacmanGame.Laberinto.resources
+C:\Users\Usuario\source\repos\PacmanGame\PacmanGame\obj\Debug\PacmanGame.Properties.Resources.resources
+C:\Users\Usuario\source\repos\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PacmanGame\PacmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\Usuario\source\repos\PacmanGame\PacmanGame\bin\Debug\PacmanGame.exe
+C:\Users\Usuario\source\repos\PacmanGame\PacmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\Usuario\source\repos\PacmanGame\PacmanGame\obj\Debug\PacmanGame.exe
+C:\Users\Usuario\source\repos\PacmanGame\PacmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\bin\Debug\PacmanGame.exe
+C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\obj\Debug\PacmanGame.Laberinto.resources
+C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\obj\Debug\PacmanGame.Properties.Resources.resources
+C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\obj\Debug\PacmanGame.exe
+C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\Usuario\Downloads\PacmanGame\PacmanGame\obj\Debug\PacmanGame.Ventana.resources
+C:\Users\y.quinterota\Downloads\PacmanGame (2)\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.AssemblyReference.cache
+C:\Users\y.quinterota\Downloads\PacmanGame (2)\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\y.quinterota\Downloads\PacmanGame (2)\PacmanGame\PacmanGame\obj\Debug\PacmanGame.exe
+C:\Users\y.quinterota\Downloads\PacmanGame (2)\PacmanGame\PacmanGame\obj\Debug\PacmanGame.pdb
+C:\Users\y.quinterota\Downloads\PacmanGame (2)\PacmanGame\PacmanGame\bin\Debug\PacmanGame.exe.config
+C:\Users\y.quinterota\Downloads\PacmanGame (2)\PacmanGame\PacmanGame\bin\Debug\PacmanGame.exe
+C:\Users\y.quinterota\Downloads\PacmanGame (2)\PacmanGame\PacmanGame\bin\Debug\PacmanGame.pdb
+C:\Users\y.quinterota\Downloads\PacmanGame (2)\PacmanGame\PacmanGame\obj\Debug\PacmanGame.Laberinto.resources
+C:\Users\y.quinterota\Downloads\PacmanGame (2)\PacmanGame\PacmanGame\obj\Debug\PacmanGame.Properties.Resources.resources
+C:\Users\y.quinterota\Downloads\PacmanGame (2)\PacmanGame\PacmanGame\obj\Debug\PacmanGame.Ventana.resources
+C:\Users\y.quinterota\Downloads\PacmanGame (2)\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.GenerateResource.cache
+C:\Users\y.quinterota\Downloads\PacmanGame (2)\PacmanGame\PacmanGame\obj\Debug\PacmanGame.csproj.CoreCompileInputs.cache
